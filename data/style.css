@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400&display=swap');
+
+body {
+  margin: 0;
+  text-align: center;
+  padding: .8em 1.2em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+
+ font-family: Montserrat;
+ font-style: normal;
+ font-weight: 300;
+ font-size: 24px;
+ line-height: 29px;
+ color: #000000;
+}
+
+hr {
+  width: 162px;
+  height: 0px;
+  left: 125px;
+  top: 326px;
+
+  border: 1px solid #000000;
+}
+
+
+.title {
+  /* ESP32 WEB Server */
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 44px;
+  color: #080E2F;
+
+}
+
+.container {
+  text-align: center;
+  padding: .8em 1.2em;
+}
+
+.interaction {
+  padding: 0em 1.2em;
+}
+
+.button {
+  /* Button */
+
+  background: #111D5E;
+  width: 162px;
+  display: block;
+  color: #fff;
+  border-radius: 20px;
+  padding: .5em;
+  text-decoration: none;
+  font-size: 1.5em;
+  margin: 4% auto 1%;
+  position: relative;
+
+}
+
+.footer {
+font-family: Montserrat;
+font-style: normal;
+font-weight: 100;
+font-size: 24px;
+line-height: 29px;
+position: sticky;
+}
